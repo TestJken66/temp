@@ -612,10 +612,12 @@ def main() -> None:
     sleep_min = max(1, args.sleep_min)
     sleep_max = max(sleep_min, args.sleep_max)
     register_count = max(1, args.count)
+    max_consecutive_failures = 10  # 连续失败10次后立即退出
 
     count = 0
     total_success = 0
     total_fail = 0
+    consecutive_failures = 0
     print("[Info] Yasal's Seamless OpenAI Auto-Registrar Started for ZJH")
 
     while True:
@@ -629,6 +631,7 @@ def main() -> None:
                 token_json = run(args.proxy)
 
                 if token_json:
+                    consecutive_failures = 0
                     try:
                         t_data = json.loads(token_json)
                         fname_email = t_data.get("email", "unknown").replace("@", "_")
@@ -643,12 +646,22 @@ def main() -> None:
                     print(f"[*] 成功! Token 已保存至: {file_name}")
                     total_success += 1
                 else:
-                    print("[-] 本次注册失败。")
+                    consecutive_failures += 1
+                    print(f"[-] 本次注册失败。（连续失败: {consecutive_failures}/{max_consecutive_failures}）")
                     total_fail += 1
+                    if consecutive_failures >= max_consecutive_failures:
+                        print(f"[Warning] 连续失败 {consecutive_failures} 次，达到阈值，立即退出任务")
+                        print(f"\n[Summary] 本轮完成: 成功 {total_success}, 失败 {total_fail}")
+                        return
 
             except Exception as e:
-                print(f"[Error] 发生未捕获异常: {e}")
+                consecutive_failures += 1
+                print(f"[Error] 发生未捕获异常: {e}（连续失败: {consecutive_failures}/{max_consecutive_failures}）")
                 total_fail += 1
+                if consecutive_failures >= max_consecutive_failures:
+                    print(f"[Warning] 连续失败 {consecutive_failures} 次，达到阈值，立即退出任务")
+                    print(f"\n[Summary] 本轮完成: 成功 {total_success}, 失败 {total_fail}")
+                    return
 
         print(f"\n[Summary] 本轮完成: 成功 {total_success}, 失败 {total_fail}")
 
