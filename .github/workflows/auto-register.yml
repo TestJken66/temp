@@ -38,7 +38,7 @@ jobs:
         env:
           PROXY: ${{ secrets.PROXY }}
         run: |
-          python ok_openai_register.py --count 150 --once --proxy "$PROXY"
+          python ok_openai_register.py --count 80 --once --proxy "$PROXY"
         continue-on-error: true
 
       - name: Check for new tokens

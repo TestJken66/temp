@@ -423,6 +423,73 @@ def submit_callback_url(
 # ==========================================
 
 
+def _parse_cf_trace(trace_text: str) -> Dict[str, str]:
+    result: Dict[str, str] = {}
+    for line in trace_text.splitlines():
+        if "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip()
+        if key:
+            result[key] = value
+    return result
+
+
+def _get_ip_detail_text(s: Any, ip: str) -> str:
+    if not ip:
+        return ""
+
+    # 优先使用 ipwho.is（无需 key），失败后回退到 ipapi.co。
+    try:
+        resp = s.get(f"https://ipwho.is/{ip}", timeout=10)
+        if resp.status_code == 200:
+            data = resp.json() or {}
+            if data.get("success") is not False:
+                country = str(data.get("country_code") or "").strip()
+                region = str(data.get("region") or "").strip()
+                city = str(data.get("city") or "").strip()
+                timezone = str((data.get("timezone") or {}).get("id") or "").strip()
+                conn = data.get("connection") or {}
+                isp = str(conn.get("isp") or conn.get("org") or "").strip()
+
+                loc_parts = [x for x in [country, region, city] if x]
+                detail_parts = []
+                if loc_parts:
+                    detail_parts.append(f"地区={'/'.join(loc_parts)}")
+                if timezone:
+                    detail_parts.append(f"时区={timezone}")
+                if isp:
+                    detail_parts.append(f"ISP={isp}")
+                return ", ".join(detail_parts)
+    except Exception:
+        pass
+
+    try:
+        resp = s.get(f"https://ipapi.co/{ip}/json/", timeout=10)
+        if resp.status_code == 200:
+            data = resp.json() or {}
+            country = str(data.get("country_code") or "").strip()
+            region = str(data.get("region") or "").strip()
+            city = str(data.get("city") or "").strip()
+            timezone = str(data.get("timezone") or "").strip()
+            isp = str(data.get("org") or "").strip()
+
+            loc_parts = [x for x in [country, region, city] if x]
+            detail_parts = []
+            if loc_parts:
+                detail_parts.append(f"地区={'/'.join(loc_parts)}")
+            if timezone:
+                detail_parts.append(f"时区={timezone}")
+            if isp:
+                detail_parts.append(f"ISP={isp}")
+            return ", ".join(detail_parts)
+    except Exception:
+        pass
+
+    return ""
+
+
 def run(proxy: Optional[str]) -> Optional[str]:
     proxies: Any = None
     if proxy:
@@ -431,11 +498,17 @@ def run(proxy: Optional[str]) -> Optional[str]:
     s = requests.Session(proxies=proxies, impersonate="chrome")
 
     try:
-        trace = s.get("https://cloudflare.com/cdn-cgi/trace", timeout=10)
-        trace = trace.text
-        loc_re = re.search(r"^loc=(.+)$", trace, re.MULTILINE)
-        loc = loc_re.group(1) if loc_re else None
-        print(f"[*] 当前 IP 所在地: {loc}")
+        trace_resp = s.get("https://cloudflare.com/cdn-cgi/trace", timeout=10)
+        trace_data = _parse_cf_trace(trace_resp.text)
+        loc = trace_data.get("loc")
+        ip = trace_data.get("ip")
+        colo = trace_data.get("colo")
+
+        print(f"[*] 当前网络信息: IP={ip or 'unknown'}, 国家={loc or 'unknown'}, 机房={colo or 'unknown'}")
+        ip_detail = _get_ip_detail_text(s, ip or "")
+        if ip_detail:
+            print(f"[*] IP 详细信息: {ip_detail}")
+
         if loc == "CN" or loc == "HK":
             raise RuntimeError("检查代理哦w - 所在地不支持")
     except Exception as e:
@@ -515,6 +588,8 @@ def run(proxy: Optional[str]) -> Optional[str]:
             data=code_body,
         )
         print(f"[*] 验证码校验状态: {code_resp.status_code}")
+        if code_resp.status_code != 200:
+            return None
 
         create_account_body = '{"name":"Neo","birthdate":"2000-02-20"}'
         create_account_resp = s.post(
@@ -612,7 +687,7 @@ def main() -> None:
     sleep_min = max(1, args.sleep_min)
     sleep_max = max(sleep_min, args.sleep_max)
     register_count = max(1, args.count)
-    max_consecutive_failures = 10  # 连续失败10次后立即退出
+    max_failures = 8  # 累计失败8次后立即退出
 
     count = 0
     total_success = 0
@@ -623,8 +698,10 @@ def main() -> None:
     while True:
         for i in range(register_count):
             count += 1
+            log_sep = "=" * 88
+            log_end_sep = "-" * 88
             print(
-                f"\n[{datetime.now().strftime('%H:%M:%S')}] >>> 第 {count} 次注册 (本轮第 {i+1}/{register_count}) <<<"
+                f"\n{log_sep}\n[{datetime.now().strftime('%H:%M:%S')}] >>> 第 {count} 次注册 (本轮第 {i+1}/{register_count}) <<<\n{log_sep}"
             )
 
             try:
@@ -647,21 +724,27 @@ def main() -> None:
                     total_success += 1
                 else:
                     consecutive_failures += 1
-                    print(f"[-] 本次注册失败。（连续失败: {consecutive_failures}/{max_consecutive_failures}）")
+                    print(
+                        f"[-] 本次注册失败。（累计失败: {total_fail + 1}/{max_failures}，连续失败: {consecutive_failures}）"
+                    )
                     total_fail += 1
-                    if consecutive_failures >= max_consecutive_failures:
-                        print(f"[Warning] 连续失败 {consecutive_failures} 次，达到阈值，立即退出任务")
+                    if total_fail >= max_failures:
+                        print(f"[Warning] 累计失败 {total_fail} 次，达到阈值，立即退出任务")
                         print(f"\n[Summary] 本轮完成: 成功 {total_success}, 失败 {total_fail}")
                         return
 
             except Exception as e:
                 consecutive_failures += 1
-                print(f"[Error] 发生未捕获异常: {e}（连续失败: {consecutive_failures}/{max_consecutive_failures}）")
+                print(
+                    f"[Error] 发生未捕获异常: {e}（累计失败: {total_fail + 1}/{max_failures}，连续失败: {consecutive_failures}）"
+                )
                 total_fail += 1
-                if consecutive_failures >= max_consecutive_failures:
-                    print(f"[Warning] 连续失败 {consecutive_failures} 次，达到阈值，立即退出任务")
+                if total_fail >= max_failures:
+                    print(f"[Warning] 累计失败 {total_fail} 次，达到阈值，立即退出任务")
                     print(f"\n[Summary] 本轮完成: 成功 {total_success}, 失败 {total_fail}")
                     return
+            finally:
+                print(log_end_sep)
 
         print(f"\n[Summary] 本轮完成: 成功 {total_success}, 失败 {total_fail}")
 
