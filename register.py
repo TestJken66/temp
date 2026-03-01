@@ -525,7 +525,14 @@ def run(proxy: Optional[str]) -> Optional[str]:
 
     try:
         resp = s.get(url, timeout=15)
+        if resp.status_code != 200:
+            print(f"[Error] 打开授权页失败，状态码: {resp.status_code}")
+            return None
+
         did = s.cookies.get("oai-did")
+        if not did:
+            print("[Error] 未获取到 Device ID (oai-did)")
+            return None
         print(f"[*] Device ID: {did}")
 
         signup_body = f'{{"username":{{"value":"{email}","kind":"email"}},"screen_hint":"signup"}}'
@@ -548,7 +555,10 @@ def run(proxy: Optional[str]) -> Optional[str]:
             print(f"[Error] Sentinel 异常拦截，状态码: {sen_resp.status_code}")
             return None
 
-        sen_token = sen_resp.json()["token"]
+        sen_token = str((sen_resp.json() or {}).get("token") or "").strip()
+        if not sen_token:
+            print("[Error] Sentinel 响应缺少 token")
+            return None
         sentinel = f'{{"p": "", "t": "", "c": "{sen_token}", "id": "{did}", "flow": "authorize_continue"}}'
 
         signup_resp = s.post(
@@ -562,6 +572,9 @@ def run(proxy: Optional[str]) -> Optional[str]:
             data=signup_body,
         )
         print(f"[*] 提交注册表单状态: {signup_resp.status_code}")
+        if signup_resp.status_code != 200:
+            print(signup_resp.text)
+            return None
 
         otp_resp = s.post(
             "https://auth.openai.com/api/accounts/passwordless/send-otp",
@@ -572,6 +585,9 @@ def run(proxy: Optional[str]) -> Optional[str]:
             },
         )
         print(f"[*] 验证码发送状态: {otp_resp.status_code}")
+        if otp_resp.status_code != 200:
+            print(otp_resp.text)
+            return None
 
         code = get_oai_code(dev_token, email, proxies)
         if not code:
@@ -589,6 +605,7 @@ def run(proxy: Optional[str]) -> Optional[str]:
         )
         print(f"[*] 验证码校验状态: {code_resp.status_code}")
         if code_resp.status_code != 200:
+            print(code_resp.text)
             return None
 
         create_account_body = '{"name":"Neo","birthdate":"2000-02-20"}'

@@ -1,4 +1,4 @@
-name: OpenAI Auto Register
+name: RegisterCI
 
 on:
   schedule:
@@ -8,18 +8,27 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'account/**'   # 方案一：忽略 token 文件夹的变动，防止死循环
+
+permissions:
+  contents: write
 
 jobs:
   register:
+    # push 事件下，CI/bot 自己的提交不执行，避免自触发循环
+    if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
     concurrency:
-      group: openai-auto-register
-      cancel-in-progress: true
+      group: registerci_group
+      cancel-in-progress: false # 方案二：确保任务排队（串行），不杀掉老的
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,7 +47,8 @@ jobs:
         env:
           PROXY: ${{ secrets.PROXY }}
         run: |
-          python ok_openai_register.py --count 80 --once --proxy "$PROXY"
+          # python register.py --count 80 --once --proxy "$PROXY"
+          python register.py --count 80 --once
         continue-on-error: true
 
       - name: Check for new tokens
@@ -49,10 +59,19 @@ jobs:
           echo "Found $count token files"
 
       - name: Commit new tokens
-        if: steps.check.outputs.token_count > 0
+        if: ${{ fromJSON(steps.check.outputs.token_count) > 0 }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add account/
-          git diff --staged --quiet || git commit -m "Add new account tokens - $(date '+%Y-%m-%d %H:%M')"
-          git push
+          if git diff --staged --quiet; then
+            echo "No staged changes to commit."
+            exit 0
+          fi
+
+          # 双重保险：提交信息带上 [skip ci]，防止同仓库其他 workflow 被再次触发
+          git commit -m "Add new account tokens [skip ci] - $(date '+%Y-%m-%d %H:%M')"
+
+          # push 前先同步最新 main，降低并发任务导致的非快进失败概率
+          git pull --rebase origin main
+          git push origin HEAD:main
