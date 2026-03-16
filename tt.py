@@ -238,7 +238,7 @@ def generate_password(length=14):
     return "".join(chars)
 
 
-async def async_run_job(thread_id, task_id, timeout_sec=180):
+async def async_run_job(thread_id, task_id, timeout_sec=300):
     prefix = f"[T{thread_id}-#{task_id}]"
     job_start = time.time()
 
@@ -629,7 +629,7 @@ async def async_run_job(thread_id, task_id, timeout_sec=180):
         gc.collect()
 
 
-def run_job(thread_id, task_id, timeout_sec=180):
+def run_job(thread_id, task_id, timeout_sec=300):
     return asyncio.run(async_run_job(thread_id, task_id, timeout_sec))
 
 
@@ -641,7 +641,7 @@ def worker(thread_id, count):
     fail_streak = 0
     while success_count < count:
         current_task = success_count + 1
-        success = run_job(thread_id, current_task, timeout_sec=180)
+        success = run_job(thread_id, current_task, timeout_sec=300)
         if success:
             print(
                 f"{prefix} 任务 {current_task} 完成! "
