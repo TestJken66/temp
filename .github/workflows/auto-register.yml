@@ -47,8 +47,7 @@ jobs:
         env:
           PROXY: ${{ secrets.PROXY }}
         run: |
-          # python register.py --count 50 --once --proxy "$PROXY"
-          python register.py --count 50 --once
+          python tt.py --count 50 --once
         continue-on-error: true
 
       - name: Check for new tokens
