@@ -45,7 +45,17 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install requests beautifulsoup4 camoufox curl_cffi
-          
+
+      - name: Ensure Camoufox binaries
+        run: |
+          if [ ! -f "$HOME/.cache/camoufox/version.json" ]; then
+            echo "Camoufox cache is missing or incomplete. Reinstalling binaries..."
+            rm -rf "$HOME/.cache/camoufox"
+            python -m camoufox fetch
+          else
+            echo "Camoufox cache looks valid."
+            python -m camoufox version
+          fi
 
       - name: Create account directory
         run: mkdir -p account
@@ -65,6 +75,8 @@ jobs:
         env:
           PROXY: ${{ secrets.PROXY }}
           PYTHONUNBUFFERED: "1"
+          CAMOUFOX_STARTUP_TIMEOUT: "120"
+          CAMOUFOX_STARTUP_RETRIES: "3"
         run: |
           timeout 25m python -u tt.py --count 10 --once &
           pid=$!
