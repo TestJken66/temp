@@ -1,0 +1,96 @@
+Email: mw9xn319vu5u@deltajohnsons.com
+Password: J6zTGYJfc%cNk3
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOWYxNmQyOGQtNWE1YS00YjViLWFiYWYtY2U4Y2M4MzAzMmMzIn0.iOQXlj8FvndKSlQhRju13_qSQuZO7zUtdOZppdPx1x4
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOWYxNmQyOGQtNWE1YS00YjViLWFiYWYtY2U4Y2M4MzAzMmMzIn0.iOQXlj8FvndKSlQhRju13_qSQuZO7zUtdOZppdPx1x4
+X-USERID: 9f16d28d-5a5a-4b5b-abaf-ce8cc83032c3
+CF-CLEARANCE: NvJ7xP4wB8H3LEEEbRoFzMV6a1hsoxwSh0T_rpYtm6k-1776291952-1.2.1.1-.lLymHiBKrTkWTmHhzDNyNDwtuW4UBtDpA7NCMT5XuXjg3oGYR9yX1YFy9yTnf.UIfIGxdy_lVzAaZ7zU5X_3s5qezYGRjfO21AvDM4DNoeT_YSI1oRAdbfdcLpZkC1aASQXMlkElBdGd7F8CEYWIieEXmsniAvinEvQ_84DIaEY125J5CikK35aRbNlvspohFNrVIBFeiGek6O0TJotwZdeapue3AZff_U_vil6zFZlPhKTtOelm6wvZyOAYeT.6SubL0ScLplmsH_v7jEHzIDtJMfetsvkU3zcgOM32dlZdqVrM5E0Rse_SjxlGumXsnZEbWVOkDzVcY14flOgPg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/mw9xn319vu5u_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/mw9xn319vu5u_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/mw9xn319vu5u_deltajohnsons.com.json
+----------------------------------------
+Email: pwtzt2pmdyk9@deltajohnsons.com
+Password: 2$F2cUysj1JGFI
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMzUyMDQ2Y2EtYjc3Zi00OGJiLWFjZjctNzI1NDdkYzhhNzAyIn0.udxTlTsqbVsC7wOPhP9bt3-B8SG97sFumMVwosNVT4w
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMzUyMDQ2Y2EtYjc3Zi00OGJiLWFjZjctNzI1NDdkYzhhNzAyIn0.udxTlTsqbVsC7wOPhP9bt3-B8SG97sFumMVwosNVT4w
+X-USERID: 352046ca-b77f-48bb-acf7-72547dc8a702
+CF-CLEARANCE: XYm3K524iqSucZVdl70gNgMoBSHK2Wk02ySQNA1GIHk-1776291983-1.2.1.1-D8OxItWm6ofc2TnHh20VYnhO4kGcXzJKuPlKmM2BU7HHbkeFL95QcV6aEK4phkfjjsHD6qPjIMVQQw_1Ua0DTp0KTTqJC6f5fpqTK4Cj918zvY25QqQRcKmihtWVSoxVZkvvbixqiiz6sc4NUy_.dW8rZVgkw7TCFANV4hTLONB5snXlMbC6.c94cAKy_dXPupT7Mm9E6f1bAhBEInTTWIoa6lcSLEptE0TmBLIbVeObbRyo2Nk4z5MQXHBpd6dvXN6O4yH_PDW5EXPNoCQEFTeffzNpsf3uLOnyYTynzK9hy2hlXO3bsQMT_yYPGvXHArnp9OmSuxq2H6f3RiPXrQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/pwtzt2pmdyk9_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/pwtzt2pmdyk9_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/pwtzt2pmdyk9_deltajohnsons.com.json
+----------------------------------------
+Email: cm1m2rwrnusp@deltajohnsons.com
+Password: rUjbz*5M11C4@%
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMmY4NmRkN2QtNGMwZi00YWQ2LWIwNTEtNTNiM2FjNzA1M2NkIn0.Z404KpjvOM5USegKPk3WwP0kFiDb79ZbdvYnj0TKO4I
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMmY4NmRkN2QtNGMwZi00YWQ2LWIwNTEtNTNiM2FjNzA1M2NkIn0.Z404KpjvOM5USegKPk3WwP0kFiDb79ZbdvYnj0TKO4I
+X-USERID: 2f86dd7d-4c0f-4ad6-b051-53b3ac7053cd
+CF-CLEARANCE: DKMCiTgg19_MmSC8y1nrUuqn1NzYcZ3axrX38jClYog-1776292016-1.2.1.1-D8XeeyFaMKv4Oi8kLN2P63ZdHDFxq8kOBDaIErDu5bmscn2DmuVIV8efGGcI74OM9WGfBFDh0GXVXwkOB_YqA8oFcwo5Wj4EJx.x_wTsesj5lJaLnzwuYzXZxJzOlafnCw1lFsZRR6jVR8bva3cnFHJu2RW7KJxaBMLRpXJB14b5sponhpeFFVT06h7kXUAXUzxZpA5QTlNxbcmpnIwCNAdHfplcDg5r40Jqz9R2GyVcOHcTqqTMXQHmw3MuyORGaC3sk0ABuz59XeNw66VlIdEt3g6y8_54WWY4MO9DokDvMFRKZDqQtwLVzzc5KmrNsvZKiVg8cMNYDzAmjBvGhw
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/cm1m2rwrnusp_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/cm1m2rwrnusp_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/cm1m2rwrnusp_deltajohnsons.com.json
+----------------------------------------
+Email: dv0kef3dzv3l@deltajohnsons.com
+Password: eToL21wm!ogW1&
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTRiNjcxYTItYWRhOS00OTAxLTljNGMtZDQwNmJlMzA3MjlmIn0.XGIKN0LF0qyPxTFuX6NILY7fINk_VEeX7y8kCutTpXc
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTRiNjcxYTItYWRhOS00OTAxLTljNGMtZDQwNmJlMzA3MjlmIn0.XGIKN0LF0qyPxTFuX6NILY7fINk_VEeX7y8kCutTpXc
+X-USERID: 14b671a2-ada9-4901-9c4c-d406be30729f
+CF-CLEARANCE: 8eMXuJa4QFupjG0MIQOpP88iFMd1ytvzl7z6MzBxF8c-1776292047-1.2.1.1-FLJhZZB3_p7KXdsd2rwCM12OtLrQCUtMh.NY8bPjS3Q5qFgoqFp_L8nDEDskKvff9SJTJJRPmmmXE62400JR14E1APhGCwxWECSUkhtzNjtZra26DxTvFGNEM23OLKHV9l6tcPywkBOwKihLppJ0_zIf1O4wfidgI3kLwMczRH6ekLKn9ISpdNQOFTHYpXSHadSjpBg_bRd48TKpAlONB3NqxsT9RJtZVZy82Hi7G7oD14WYTIRV9mVP50wHihPipoAi26w2TQMunhDfzF1yVv4hYHFoInboJzVoXLPerem8y2W0Rm.dDqRsp_lyNKMHwHdErx96vWwVBQahcUHfOg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/dv0kef3dzv3l_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/dv0kef3dzv3l_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/dv0kef3dzv3l_deltajohnsons.com.json
+----------------------------------------
+Email: oc23m31rqdpz@deltajohnsons.com
+Password: QWRX6x$VAum3z8
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTU5ZDQyMDctMGQ4Ni00ODAxLTgwNjAtMzMyNTlhNWEyNzEwIn0.EU9smKqgChkgyOlnQ51tdx3MRpnjsy5RMt8RrdCdoVM
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTU5ZDQyMDctMGQ4Ni00ODAxLTgwNjAtMzMyNTlhNWEyNzEwIn0.EU9smKqgChkgyOlnQ51tdx3MRpnjsy5RMt8RrdCdoVM
+X-USERID: a59d4207-0d86-4801-8060-33259a5a2710
+CF-CLEARANCE: tzo3Vz_46hVw43vrdblj79_UGPFHtWMZEfDA0X3sw7A-1776292080-1.2.1.1-.RGva9hdUk3gfdIGsykYAn7OvdXeRquXbQa8BF8DZZGuWaCWfRcODOOTdou4vVJNXEWlP_IsiYLHIBPJYeRZuNY39fFteU09vjro92yuZXCd2l7h5SB72tLuGbuL6gOxFIUaRjBZtPxhBMwlIcUN5Nv7w4QwNTyRftBUnS8zy8qIoORlDKOA_KAo_HKXHwT.FEsWZiBQsuuHG.shlyY5qF5dLfnDi_AWpSzGf8Wa3P1tWWCLt2HV5b5GxPgKOsMK9K6In0xa8j9O2OO_6jlilLc.Qaajkk0UKu2tAEVRsO0D6djHk_pcvpxnPCzXj8eU_D.2DNvtSG4B0zwnlAR.jg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/oc23m31rqdpz_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/oc23m31rqdpz_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/oc23m31rqdpz_deltajohnsons.com.json
+----------------------------------------
+Email: npunxrsijb4k@deltajohnsons.com
+Password: m1LaiRGC01O7*7
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTg2MTI5YWEtMGJiYS00NThmLWE1NjYtYjZjMmQwZGNjODE5In0.lUx8iZLSTKONpGb0agHMP6vrFkIu4sLRf1Ubw5b_7SI
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTg2MTI5YWEtMGJiYS00NThmLWE1NjYtYjZjMmQwZGNjODE5In0.lUx8iZLSTKONpGb0agHMP6vrFkIu4sLRf1Ubw5b_7SI
+X-USERID: 186129aa-0bba-458f-a566-b6c2d0dcc819
+CF-CLEARANCE: YI7RQbacJZ5ZM3rpRN3RVfFtYF5NaukvXEuT4Pitbro-1776292116-1.2.1.1-Kd0YiZR2XWEO_F55cxJkaI6x8hffUlwfDbmsoNipdLU6LHNMbEZKgttxWpmL0E2_udk76MIzEfB80lhyAG30kL0LwntdFxK.fAAvYBMhAAFp1IFcfNv92Iv9D3tVSgkSMh5YtOcbSQRS3RssRFptG3yTbdKtgvR5ECCXjFeM8MD7nFKdHQ5QqRsI.ifXFxrWxMPLrLkJ.qGMo00HfGxshKT85bKmDsKXnQnd_noJrlo9lLfcdpZS_H1eQRYY1o.fFK3g1rweFU8LqWW7MhrhoGtCI7_iYtdev7R8Ore6UoepyO_bLdqzt2l0KN1U70fK5Q5AxXdOZwvptStNZfO7WA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/npunxrsijb4k_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/npunxrsijb4k_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/npunxrsijb4k_deltajohnsons.com.json
+----------------------------------------
+Email: x7qz9dgke1q9@deltajohnsons.com
+Password: R$mq3xRE@4WUSI
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZTczN2JkNGQtYThlNS00YjYyLWJjNWItZTY1MzdjMWVjMGNkIn0.nnqTPHjtRI_2J-p0md38NRnRx86MneaC15vFcEXcUyw
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZTczN2JkNGQtYThlNS00YjYyLWJjNWItZTY1MzdjMWVjMGNkIn0.nnqTPHjtRI_2J-p0md38NRnRx86MneaC15vFcEXcUyw
+X-USERID: e737bd4d-a8e5-4b62-bc5b-e6537c1ec0cd
+CF-CLEARANCE: M.2n3fDRtW62W6K.OClQ3lW_omHvUnhoplpIR9vHZEY-1776292147-1.2.1.1-hu3xb6vlnNzrfajhuMvX2EcWhs8TdmVP0UDtCCcYjk8sI9j9yWI_82v3XkaisGZ8q2y16Go7Yx7pegoC0DgPaWM5kMnQ_ck26Mw2k7vQdQi6fQ2Hd1KQi7U6imL09BYHj.S4TL3NkEB50EN5XBVFXMHodKE9hNC0RXfnStmQBNZC7pbc37_9WAvqUvA10FWCrWeb7xPSkWxMfoZpXTl9WhjevOzX9WOhFJCJWKH_WjWseVBbVGdS_4sf6HHyerk1DjqejZEwjxmI5_.Bt._2UsudKuK_WJTRoz2LMdX6bCIOBdXeNg7l4zkVi52wGT4dcxKYcO31MfqJZVZT_HGnkA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/x7qz9dgke1q9_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/x7qz9dgke1q9_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/x7qz9dgke1q9_deltajohnsons.com.json
+----------------------------------------
+Email: dfp03qcunlry@deltajohnsons.com
+Password: !irfM4D6R#r*&V
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzM1OTI4ZWMtMGFiNy00NTg0LWIxNTYtODEyODE5YjUyN2RiIn0.VroY8yalAySYeQz4POt3n5noZIJMGHtOiziUXxYTdKE
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzM1OTI4ZWMtMGFiNy00NTg0LWIxNTYtODEyODE5YjUyN2RiIn0.VroY8yalAySYeQz4POt3n5noZIJMGHtOiziUXxYTdKE
+X-USERID: c35928ec-0ab7-4584-b156-812819b527db
+CF-CLEARANCE: oyP6E_96HhxcAj0qY0fXRu0yfso1wV9m75s.n5nm05w-1776292180-1.2.1.1-yDizaNcf0dNaQRRyKfx5Un4rHCSQ6nHN8_JPCMFV5IhZ3PygLiqirtka0AZM4cXoP6nLi2FNtjqGMbiB1JFq2yT8rZ6HYlIpoOoL5mm_Pbzo24UXM00PxpfRZIYhNLL.iHL7RGS9c3BzPk3nvYeTQNJ94MpCTMVZhw2cnS6UZSDaHZO.r65e5lGRCcCRT28bEfeKN18LR2gfuvgQRLcY3D7Y3WOmwU3ZVIyMYB1Jbwdf.LjmTJh6h_0Tpt_7tFhsDSQlyf34Bzws2UTA6Kf.8Bysbqg45MGzVip930kc4hfHejdcQGVQQxs7MSiS5n1vcMQN8K4NGhFOg586e9jgEg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/dfp03qcunlry_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/dfp03qcunlry_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/dfp03qcunlry_deltajohnsons.com.json
+----------------------------------------
