@@ -1,0 +1,12 @@
+Email: rxatzajoxi6u@deltajohnsons.com
+Password: #2A%cASRKG5ibp
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTg5NmU4ZTUtOGIzZi00MjJkLWJjZWUtOTcyMzVmMGRhNzQ1In0.3GQPR_Nf7VknK0E258WXcS1CplaXJ5MALqsQJSstkmQ
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTg5NmU4ZTUtOGIzZi00MjJkLWJjZWUtOTcyMzVmMGRhNzQ1In0.3GQPR_Nf7VknK0E258WXcS1CplaXJ5MALqsQJSstkmQ
+X-USERID: a896e8e5-8b3f-422d-bcee-97235f0da745
+CF-CLEARANCE: KKJGgnPHvM.CKSkPyYAWeBtD3rAGyehzQ3F5bC6I1Zk-1777578387-1.2.1.1-dOmdJym8BxSlHyqeo6rDzsU2r1hz3D5eW_qSZTk9YxcTx1oxpS3EJUzqj_xX8g_f5RLGyVOTwWtbDzuRCR5Z7_NP.eB_Jweut.XLO08__tHc4e_jX6mmJXWfcmBEguAoie1kZgYoAe6tPhFOKNaEPVXV8dQgNR5qfNNKaqRdcBQrZqmtEtOv.ZxFuR5psGcgipjWGpx90B1ltWCMhXgN.guL8t2zf7kwBp655BOyz5c9dB.1nPKiaZRQhOmqDQfXTRhVAvj5jMe8CZxG2rNxA1kWTb87EXcItmUKpMZdXzETb0UGlXcZO_tqnzIaADkYdKb1BiIqb0KFmXKilopGIw
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/rxatzajoxi6u_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/rxatzajoxi6u_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/rxatzajoxi6u_deltajohnsons.com.json
+----------------------------------------
