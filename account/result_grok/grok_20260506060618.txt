@@ -1,0 +1,12 @@
+Email: lgumwwsels3a@deltajohnsons.com
+Password: jsB7yg*wsh@SL0
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYWNjZjBmNTktZTBjOC00YzFmLWE3OGMtMTg0MDgxZDYyNDQwIn0.clWarzMKKLi5aZvlirmrukWCxLqzHpuxx1gTbes_PEQ
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYWNjZjBmNTktZTBjOC00YzFmLWE3OGMtMTg0MDgxZDYyNDQwIn0.clWarzMKKLi5aZvlirmrukWCxLqzHpuxx1gTbes_PEQ
+X-USERID: accf0f59-e0c8-4c1f-a78c-184081d62440
+CF-CLEARANCE: fz5do5VbgZQHUNIY8R1X_zbfHca1g1vzQnOQ.P.Wmzc-1778018806-1.2.1.1-hzg5H1JOkSq4VAP7mxf0SQTlSTKVgxnw6JsZ1khy0OgPmfe9XHXHkHlVRuVqR1kVJoAXH9woNthVH4qATyxWBtc9v9tMf6lFri3pV7oDQGjYApEGD_DRBrlA4PZAYhN_YBXwWfyDnMbF04bOqsp6ES6Wssyjt_HMdxj59QHfUtD0KaJfbEe93WLs_0Wme3tUJhZJ76zsPhmIGoeydv1z5E0XvFVEe0rZq1aeMOZFp41_c.iYNIFNkYEaLn63gvu48Lkjge5lvYfLiBRrckUQmlO7HofqQ9CEUtYyzCdgHutPdBAjGnVS.LTRoZJi_3B.HlYCrNAJVCqA8zt0wREsfA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/lgumwwsels3a_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/lgumwwsels3a_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/lgumwwsels3a_deltajohnsons.com.json
+----------------------------------------
