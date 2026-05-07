@@ -1,0 +1,12 @@
+Email: nvg0vllcdvfu@deltajohnsons.com
+Password: 5vyhR*YiM@0430
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNDVjNmU0MjAtNzJkZi00MGU0LWIwZGYtMWM2ZWM5NWZkM2UzIn0.vpimyV66Ls3Qj-U9q7JIUszOXqp-mN9VhF6zAn8LyqA
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNDVjNmU0MjAtNzJkZi00MGU0LWIwZGYtMWM2ZWM5NWZkM2UzIn0.vpimyV66Ls3Qj-U9q7JIUszOXqp-mN9VhF6zAn8LyqA
+X-USERID: 45c6e420-72df-40e4-b0df-1c6ec95fd3e3
+CF-CLEARANCE: OlUUQGhHlHmDXRePG8FVQf6CezSIhPHGAmx.kDQRwCM-1778120379-1.2.1.1-Q5Uc3wQxjOwvn08u9Ed_r5wHUAv6S3IuGXxxwOQbo9GMb_kwzgDcJy0.KrlbeHFh7tZ50T2z8PacTHqImxW_xZFlpX9FdfK1B6AuyxuWxmqawm6Oyk04h2omiTh7ZUqdaVughCKkw4dgO9Fl37ofiPa6XrdcYRtswcXF1fjw.wCysCO8tV4Qjhn.Tfd0pY1ybK4B22KOhIYKsy0PSQEgkqtct8xQI9uMMtQ6aHGrwFinQ1yAh0ZzQ1oVeEOy.1zEatv4G6h0.v3jQmgcCa51lify2tAxnRg8Zuxtg2Eq7lMD2TRMU1vZko7HUKGE2LobQRAUIDzITzOYBTGSI2.ABQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/nvg0vllcdvfu_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/nvg0vllcdvfu_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/nvg0vllcdvfu_deltajohnsons.com.json
+----------------------------------------
