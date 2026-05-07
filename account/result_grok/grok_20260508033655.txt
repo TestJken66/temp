@@ -1,0 +1,24 @@
+Email: 2h1su30dfsw9@wshu.net
+Password: 5@KVxmQslux$M6
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZjUwZmZlMDctMzYxOC00MGEwLWEyYTUtNjBmMDE5ZjIyNTQ0In0.S4L_oG4gtp5WdOGGfQpKHgcip87b0jSXCkJYVJJ8MVE
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZjUwZmZlMDctMzYxOC00MGEwLWEyYTUtNjBmMDE5ZjIyNTQ0In0.S4L_oG4gtp5WdOGGfQpKHgcip87b0jSXCkJYVJJ8MVE
+X-USERID: f50ffe07-3618-40a0-a2a5-60f019f22544
+CF-CLEARANCE: 374tiW6YYgdeu9SoHa6ZsTt1klwrkGiXkIiw6_lzrsg-1778182649-1.2.1.1-e143i1rjXd240Vyy92W.ypqApdEov0lgKsFRPRohPdRt3lP2H8uN2tDlgKq9EjUBsFgKaAZXqazvfi2vqHhKAKPui6rkDg7MCXrsepycD_dTFlN7KSgRRcAwCmLLtwcQbJkNp3KTYGg355pPVodn2rH8s2JXxZD_6bOehNjGl7hDrZgl0HLXFo_xh9ZgEIGw9tSydE2FbtwY0XYATPwhiFq0XokDQzwBIjyuTwo69HpNKemUk7m2nfU8i8WGFPQ1ABbs2yaTrHMiBF4b.wx58T5kHitaZ8Iq9q.hsm9msb3Xp8DLR5.gWNY2or.d2nuEoNbA1DtAuriEiz.6yDAtng
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/2h1su30dfsw9_wshu.net.json
+COOKIES-FILE: account/browser_state/2h1su30dfsw9_wshu.net.json
+SESSION-FILE: account/browser_state/2h1su30dfsw9_wshu.net.json
+----------------------------------------
+Email: zfpz4ocxxb3v@wshu.net
+Password: zKOBlaA#wiR!9D
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTA0ZWI5ZjQtOWU4Ni00ZTY0LWJiMDgtOWRmMzJiYTgyZWVkIn0.B3sRjEAQ6AzkU0BWTYL3mm_FK7HQ-FSM3VsMp9OMfv8
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTA0ZWI5ZjQtOWU4Ni00ZTY0LWJiMDgtOWRmMzJiYTgyZWVkIn0.B3sRjEAQ6AzkU0BWTYL3mm_FK7HQ-FSM3VsMp9OMfv8
+X-USERID: a04eb9f4-9e86-4e64-bb08-9df32ba82eed
+CF-CLEARANCE: wtu16BXJr_vQRAeFydKRCjfLv6144HfMwWgg62GxV14-1778182688-1.2.1.1-7W4swUYI6d6HokfF_Rf6wFNfihHfXgArwNAtrZf9S.N4j7vyW.lAb.ENH5b2xvaATIwYLurIgjr2Z5NBwBIRVA2GX6c0vfPtbl6SXeJB6CNifA94NAZ7MucEoKzkCPK2mVRZm1NXgE8YOIlSSAFRExR2rEEssq3TiAgjGdydozfti_Bmbvnhx11GCVJp7mV_K36Kk_9QHzCfQVn9jp95G_c8BjWdbQtuAD_D6cefSC0pTHOIQmPk6TgoztQWYegghiQMbSRsv7nS8HCI_FmZqDQQf8kGae65FlFcorfwc5VHGsSgIsiZdEz7U0np9M5GQ3f3KdW4RIJ38u9Ju416Ow
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/zfpz4ocxxb3v_wshu.net.json
+COOKIES-FILE: account/browser_state/zfpz4ocxxb3v_wshu.net.json
+SESSION-FILE: account/browser_state/zfpz4ocxxb3v_wshu.net.json
+----------------------------------------
