@@ -1,0 +1,12 @@
+Email: g6ysy6mp9x9f@wshu.net
+Password: g6Re5Jk@eCNu*$
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYjcxOWM5ZjAtZjY5Ny00YTQxLWEwNmMtMDk3NzhhODBkN2IyIn0.KxHXc8HuVF5BO05zyV2NB8Lq87YVpAWW1Ujl6LoL_Nk
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYjcxOWM5ZjAtZjY5Ny00YTQxLWEwNmMtMDk3NzhhODBkN2IyIn0.KxHXc8HuVF5BO05zyV2NB8Lq87YVpAWW1Ujl6LoL_Nk
+X-USERID: b719c9f0-f697-4a41-a06c-09778a80d7b2
+CF-CLEARANCE: iKsYMww.PWMn32IY.2RSMJsKt0Cfz9VjLZ2gGRAfk.E-1779067195-1.2.1.1-Njww72k_okZQkB89QvqmW9oxI52QGT_wZa6kv11xwtqTRVB8Sq0QMgMZ4vhe2sVXgSuc9H5mDVMd5JSDLRS8yQgUF7RmUuiMtSY7bZiyak.ltZ8tmy4_NskTo_1fC9SXbsoVoHVh0wvKg.us1kMtxT.fvuxVZpTvzJNPLFc6oWYIgSD4mwIumfB5cEqhASqw81auBaVKKCptt99aZS1vf96srMot1gUROhP6S.FMiPRdPgNR5_VcKPv2.g75DURjqmrjxVS57paNaKcagGuNEdun.LBmWY9NHAND0L_DPGRuJwiiyZDKunVOA1pP8U18C.6cNvqwBzyCMVTOx5Mp.w
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/g6ysy6mp9x9f_wshu.net.json
+COOKIES-FILE: account/browser_state/g6ysy6mp9x9f_wshu.net.json
+SESSION-FILE: account/browser_state/g6ysy6mp9x9f_wshu.net.json
+----------------------------------------
