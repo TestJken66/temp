@@ -1,0 +1,24 @@
+Email: ciifnt5b3eq0@web-library.net
+Password: dJMUA7mMu&*yCj
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiM2JhZTA3YjQtMGRhMi00YjE2LWI5ZWMtNjQ3NTRkNmNiYjZhIn0.IBB7e-ABuG_e2ioepcOBpDuH93pRibKqoeUCyGibxLc
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiM2JhZTA3YjQtMGRhMi00YjE2LWI5ZWMtNjQ3NTRkNmNiYjZhIn0.IBB7e-ABuG_e2ioepcOBpDuH93pRibKqoeUCyGibxLc
+X-USERID: 3bae07b4-0da2-4b16-b9ec-64754d6cbb6a
+CF-CLEARANCE: b9TipVZyb_2m97Lj2aO8lJqu1lmqys1K_RoTmbc._H8-1780978084-1.2.1.1-5.2UH1wdE00TG1NpKb4fjI8.rrm2yR.MxOQxmKrGgqtRcGLFnkbW_xIqKAqz8Hb7U9WjUEWJNlytK1iFfrDn5UFwpSfAvVEg1iknnlrRpNVx3u_F0XCGqdrezg1ryad0EMlZuammhO0m5KglXMq0lBQAlr.WL667exzPkXgtgL2xJOF6reQDb1s7iFVa4z6HavliEhNVllcr_KYkepX_fOuetVxrr.lC1pF09sT3iTOmjZvM.C6HssWNkCtxSXd9oRfJXJNlB8wIoswtUHLd5PREVowJ254QxVOAqkwZEpiEwqHrmWwDEhZFLW3zsEiZisTwHyR9BoMg2oZcD68D2A
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/ciifnt5b3eq0_web-library.net.json
+COOKIES-FILE: account/browser_state/ciifnt5b3eq0_web-library.net.json
+SESSION-FILE: account/browser_state/ciifnt5b3eq0_web-library.net.json
+----------------------------------------
+Email: otbwq00tr3fs@web-library.net
+Password: hA77VrF@$HWDUp
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTIwMmM5ODgtYjA5ZS00ZTJmLWE0NzYtZmY3MTQ3MDNkNjFkIn0.-MKMzecNFPnSQ_58bS3OMVu4MOQ7jWAk73g5S9ytyMg
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTIwMmM5ODgtYjA5ZS00ZTJmLWE0NzYtZmY3MTQ3MDNkNjFkIn0.-MKMzecNFPnSQ_58bS3OMVu4MOQ7jWAk73g5S9ytyMg
+X-USERID: a202c988-b09e-4e2f-a476-ff714703d61d
+CF-CLEARANCE: GDKd5NuVU1xQN6dQn2s0Zp11OzdbQCEb0dhmfGv.8QI-1780978121-1.2.1.1-jasFZGB6EbRzX4guc3XtTbR5ZQYUBgXrR3xaZ_QkjIU5Y3KpjoPnALz5QN02nN4uDiduHQrNh2S9sz0Yi5Az96ibnUp8ev5vyFlZ4P8mURRvr5374AoSKZ26lop7ebd4BSWtNEtsCGw.47x2KwiV_5Z8fL8q90F8eVfRNYwqACRfi1NAATwk5IomLx78OHi4ryzsG_l9nVATTN6.sAgvoZEShT4UfUzMggejtGcrX0ciqVL8wQNVeRJepgp1laeAZjj41M.yRV0hncVSoGzA8jmOi19kVh3.RiY0061MBvFuMzkt9AuAPKo4WfzCgiYkPnmT3k01ZWUzoXL7MqdppA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/otbwq00tr3fs_web-library.net.json
+COOKIES-FILE: account/browser_state/otbwq00tr3fs_web-library.net.json
+SESSION-FILE: account/browser_state/otbwq00tr3fs_web-library.net.json
+----------------------------------------
