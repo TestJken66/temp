@@ -1,0 +1,60 @@
+Email: r04a4r79to6m@web-library.net
+Password: KuJDzZ7*pm&gAo
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZjJmOThlNjktZDU4Zi00Mzc1LTgyNTgtMTQ0NjI5MWJmN2JhIn0.yfSOarAqtT2NExRlOANOP_5EOnEBBuQnzYIbU34z_9c
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZjJmOThlNjktZDU4Zi00Mzc1LTgyNTgtMTQ0NjI5MWJmN2JhIn0.yfSOarAqtT2NExRlOANOP_5EOnEBBuQnzYIbU34z_9c
+X-USERID: f2f98e69-d58f-4375-8258-1446291bf7ba
+CF-CLEARANCE: dy4YHHDBsx7Rl8thRpMps_yGUALfLPaSmnkb2G31mwg-1781642131-1.2.1.1-UhEb2493IQDYip4ATeKJLzE8pVcfhMMXaOrnlywEmX.Y5bmtD9oUjCxnJb6PNZ.t27C2XZFF.H6FYzVyv7GE7xzG0m.qh.UcUVQZI_v5lxeP9ZFlCV3FjguqFgUkZ3RDObIPf6dsTG8re1h3R4slMhjXhKcA9rRjl21_afNYXfKvUeYrMFHahuKPafU3zETmaUSJboaVLiTgfctaD..KyHuKznH1FBC17AYRIzw9REqH37kiXZY8es4TfBZURVuvlFRdRXze.E5cb_WqKBXxgUQ940kprMHfHqKIMot4sSCcvmwvA0kqyChzA3bgSlytXI3zomKYD04GQk2_F4WxDA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/r04a4r79to6m_web-library.net.json
+COOKIES-FILE: account/browser_state/r04a4r79to6m_web-library.net.json
+SESSION-FILE: account/browser_state/r04a4r79to6m_web-library.net.json
+----------------------------------------
+Email: dtsmcl044up8@web-library.net
+Password: 7nWJ!B56hNS%CM
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOWE1Mjk3YzctODBlMy00YzNjLTgzNjMtNzQxNzc4YmM5M2E1In0.oH8Bf7eu0PhkU459SI1Y3H2XH4dekRnEoZRvLHKhs6Y
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOWE1Mjk3YzctODBlMy00YzNjLTgzNjMtNzQxNzc4YmM5M2E1In0.oH8Bf7eu0PhkU459SI1Y3H2XH4dekRnEoZRvLHKhs6Y
+X-USERID: 9a5297c7-80e3-4c3c-8363-741778bc93a5
+CF-CLEARANCE: XjDw2jiaP4zVaTJQpGOvpeNWcSP_4UZ7_ROYXINEsQM-1781642183-1.2.1.1-1SM0ugvz1cS4Pdbuyz.KzZ4Sp7di2Kd6p8k2ZCfEbPxnYkcFlncY1nDgEbRkaApkgclp3GCdl_.uxB2hz2QlpbFgpxXv0j4HHC55_Er5ufDXRSSmAYxldihmmEG9.GA5rlSUyD1sMr20QnPHyDC2ZxuybpXVHufa8nfrNBb2krJQACHYlPLls5yc4e9VRD4rUNOod8NXyBNYKsKJrocWRIlw4WyUeCjUUjapzyH.4TDlmIzqV2RCO7iqvAstndotQZtuQ..azrDPzXwAbe5pUkbqpNnawJnGb4HllCiwkhUDJgyosqaS76RafwYoFs.NJnftHmkAB76.vBwK9z2F2g
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/dtsmcl044up8_web-library.net.json
+COOKIES-FILE: account/browser_state/dtsmcl044up8_web-library.net.json
+SESSION-FILE: account/browser_state/dtsmcl044up8_web-library.net.json
+----------------------------------------
+Email: 5z3i42hpk1jf@web-library.net
+Password: e7a3y2rMFcM!zZ
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNzRhYjc2MDAtOGNlNy00NjBkLTg1MTktYmExZjkzOTU1YzQ5In0.FLFZXJLRqHpbXwXEEMrP005eT1TGbQFc7nESJMbcKt8
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNzRhYjc2MDAtOGNlNy00NjBkLTg1MTktYmExZjkzOTU1YzQ5In0.FLFZXJLRqHpbXwXEEMrP005eT1TGbQFc7nESJMbcKt8
+X-USERID: 74ab7600-8ce7-460d-8519-ba1f93955c49
+CF-CLEARANCE: tgfVLLSEFwpYNybMeC19bx71goIV_Mx7CtaD8b5TcZc-1781642228-1.2.1.1-1YrsrJIUY3r0psMn96ZGbncK33AV1NWr5_07XBMuoRyIMrFsu3rEctmqRnqmzCVKunHEyKDeewI5BBsZOfc5BRhdBxJ7EnaGLwnbq53EddLAvX0VmrkSYc2mfbzHPzuaAye8S82eA5KqTY7zph2Vcm3sOasXg35P8oAucm.YFqkxM9vEV3SIoFIn8k_WBnuxdNUyvF8RFdKnGWDrtzLdcMnrdGbIcJQsxQHVPKqsKcWZC2RZdfQx6OY0t0guukz5towEk6YbD4Ng5QAb6zTTz6smsbb0tcK4p52bn_nkjQAYbT4h3yyy03HVAvrkDSCIlu3.qw1NX5Q30N_MghJDvQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/5z3i42hpk1jf_web-library.net.json
+COOKIES-FILE: account/browser_state/5z3i42hpk1jf_web-library.net.json
+SESSION-FILE: account/browser_state/5z3i42hpk1jf_web-library.net.json
+----------------------------------------
+Email: nog4rpdr0jj0@web-library.net
+Password: 0lNT&%$wjNNfoB
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzFjYjQxMmYtYmQyZS00NTJiLWEwYTgtNDQyZmVjZjYwYzRlIn0.893Ul71eGauoUW7LCbDbwu6jhkXbkjmmCHR6naxVAPI
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzFjYjQxMmYtYmQyZS00NTJiLWEwYTgtNDQyZmVjZjYwYzRlIn0.893Ul71eGauoUW7LCbDbwu6jhkXbkjmmCHR6naxVAPI
+X-USERID: c1cb412f-bd2e-452b-a0a8-442fecf60c4e
+CF-CLEARANCE: 3b5JeFCDD8YlSCguc5lMSkxIe5rGZ585WFnIT53nXW8-1781642279-1.2.1.1-4HLMOZzNnT48lUaGzFsuaOifXHAKWfkdZPNYvzbLoTDM3YS16YUEYXsj.mgDL5tK6XpP1b3KYq4gYc0.vwXxJITk.IvMnR9GiKs_BqSFATkDk1uB1mHa4TVlHVMauAqQVdd2jVKGeFZN1HFswmQSSGrJ0SrN_cfsvbEc0FVKnBnDV8QDsdFIiyKWmTAeHAQbsJ2Q8PujuAsOVdwx1CgaqmcjBvj_ql33wa0xmbX.CgpoRFdun39pyjxcrqfG1W3fm20KvuTidgFjoM6kgeGweQZWZOOSHfdF94dEifaxWPRp1hFpsVc_PZ7KDSAm4PuYwsM_4gI1DDaYq25H5rCxNg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/nog4rpdr0jj0_web-library.net.json
+COOKIES-FILE: account/browser_state/nog4rpdr0jj0_web-library.net.json
+SESSION-FILE: account/browser_state/nog4rpdr0jj0_web-library.net.json
+----------------------------------------
+Email: s4qqt2mxs6cc@web-library.net
+Password: 1vhQ#SlwaD4%%A
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZDFmNDBiZWMtNWM4ZC00NmE3LTllOWQtM2I4NjNlNjcxOWU3In0.zppZoTMQdt_W2V4nBGk6kdWu6lA-o4f6mP0b0cYhjKA
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZDFmNDBiZWMtNWM4ZC00NmE3LTllOWQtM2I4NjNlNjcxOWU3In0.zppZoTMQdt_W2V4nBGk6kdWu6lA-o4f6mP0b0cYhjKA
+X-USERID: d1f40bec-5c8d-46a7-9e9d-3b863e6719e7
+CF-CLEARANCE: rl7QRAQPqpjcpMPsRwi6bAav9.c0OcN.5OlbB1uMmVo-1781642328-1.2.1.1-pl9BYXrpbsYOX87FVosZY6FM_grM4MIFFXfPatp0fhGqKpgzxsrVo0sDdmxhbMv0CvgSwEO2t_bcJDIbaFaBDUHVc5lt__LBThvtBeBHEb1RCAcO88rfuh_hTEbSs7TWyLx9LCWcfdqI5_LJ7OiukHjCGV16Ra8CqT3pjl1.zDaUjejL7ReWN6Ndb3VTkduCy1AZjeD_5aYkgy11gDSR6XoMyZY9anjSgPRna1OxLc0quUedyDupvmhbSDt0c8wu31lIAc0WdyxlG8Btf6NUlyyiZbcS5NsSdTDX3t.09hKw2vyH5EevlkurQ9.M8DGr0xdm1bhHgm2JJE2aouFtIg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/s4qqt2mxs6cc_web-library.net.json
+COOKIES-FILE: account/browser_state/s4qqt2mxs6cc_web-library.net.json
+SESSION-FILE: account/browser_state/s4qqt2mxs6cc_web-library.net.json
+----------------------------------------
