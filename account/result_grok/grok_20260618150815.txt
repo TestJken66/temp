@@ -1,0 +1,12 @@
+Email: j1r5z11x3x86@web-library.net
+Password: 3or!9lq2&Rv@7M
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNmQzYzYxOGYtN2FlZC00YmUwLThkMjQtM2M0NjJjYmMyNGRjIn0.tUd04O1uuNUls_8A9HDR0fibkpmHeh-s9KNuta5e6QY
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNmQzYzYxOGYtN2FlZC00YmUwLThkMjQtM2M0NjJjYmMyNGRjIn0.tUd04O1uuNUls_8A9HDR0fibkpmHeh-s9KNuta5e6QY
+X-USERID: 6d3c618f-7aed-4be0-8d24-3c462cbc24dc
+CF-CLEARANCE: fB7IOu2jWaGglDv..uhzvpr3toF7QDQLzLlHH5EYoUE-1781766531-1.2.1.1-O0Ja.rxlYDGQ9zWn6QKXUmPkziu0s2G7teCF.qxzzYVYWibTRdumSYiF4kuDvZYXBQpSgUzIOx8RDZKt5XG7gIMEDXYs9Qx6H3kWX5gLRrJB7IC6EgTfnVDsgBM_WI51KM8YW9yVyxRjBNa89xIc3GCDCiskBEL5jgpX23MEG4nNCLHt.KAuIC_HC5nJjwHtzzrS3HspVYaU_.fJ5SiHRvHYtPWkNSGTv5bxjrJFHpiD50PD42M9pO.1SMvqO2SHUHgjNsm87Lk4RbK2JVxOIbaa1aT4BxHZV6XodGStEug.LwVegsRhEcuSCkV_NZA2khez4sQSug5zksuqUWA.JQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/j1r5z11x3x86_web-library.net.json
+COOKIES-FILE: account/browser_state/j1r5z11x3x86_web-library.net.json
+SESSION-FILE: account/browser_state/j1r5z11x3x86_web-library.net.json
+----------------------------------------
