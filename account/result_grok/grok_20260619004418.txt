@@ -1,0 +1,12 @@
+Email: 0wv7pppaw242@web-library.net
+Password: Sg10tUR2es8kE$
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzdlZmZkNGMtMGY1ZC00YzY3LTkwODMtZDZhNzVmMzhlYmQ4In0.kL0BURl4udpiOT1klGgCQTJJSNgGd8kMRkLBzP3MeT4
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzdlZmZkNGMtMGY1ZC00YzY3LTkwODMtZDZhNzVmMzhlYmQ4In0.kL0BURl4udpiOT1klGgCQTJJSNgGd8kMRkLBzP3MeT4
+X-USERID: c7effd4c-0f5d-4c67-9083-d6a75f38ebd8
+CF-CLEARANCE: QY.58RNpAw6vUfT4R_JGF61nKqjBcJIu_MuAeVcdIY4-1781801107-1.2.1.1-zEINf_Cg4Ayqxrk_rMxSNMh9qtzaZRPdXks923j3FnUQ4RCKw3XADQwg9F8BnshW6gX68nUeI_GNyeaMbkygcKFN6btKrn1NqxZHwihia0yMGU2kdTrP.bAl9DxRtRvuOva1wzjFGkLTAM_1kxCexbH.nPmModhrQoSEol9lukF2HojONsn.0o_vSd645pFBWHpIXinNDVHhhiX444rXWf3anbqjj8nJj5fNLn3xw_wVTiA7l860t0HEJ05c3LRUTsPak_whL.dD95x_.Lehaf5oKc3nr5Vbc4wp1J6nKUjGneLlRI5Xh57OI.nEZbVRGAPRhcB2eFnFeoFt70tAyw
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/0wv7pppaw242_web-library.net.json
+COOKIES-FILE: account/browser_state/0wv7pppaw242_web-library.net.json
+SESSION-FILE: account/browser_state/0wv7pppaw242_web-library.net.json
+----------------------------------------
