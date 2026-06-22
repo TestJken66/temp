@@ -1,0 +1,12 @@
+Email: r5aywo653hvn@web-library.net
+Password: $aLvWmPD0MP9xi
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTZlOGU3MDItZmViOC00N2E3LTg1ZjEtMzE2YTJmM2YwMjJmIn0.Ta3iEcOt9TLqAfMBeZqwHHp38LW9veLABHz4lBibqQ0
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTZlOGU3MDItZmViOC00N2E3LTg1ZjEtMzE2YTJmM2YwMjJmIn0.Ta3iEcOt9TLqAfMBeZqwHHp38LW9veLABHz4lBibqQ0
+X-USERID: a6e8e702-feb8-47a7-85f1-316a2f3f022f
+CF-CLEARANCE: lCwZWovIfBvCfqDOAXeivy0h1E3qgaOOSP5sSBNS8mc-1782160033-1.2.1.1-Grg.LiuMICDCHk_7L0geIKW9EsP9jLYKL2kcpVFfNTGnwYMeYUvriddTfI84JhdAkw5ZRiShAdo5r09NZOFcGE0WAXpZyAFqY_XGCNOqZIdHQ23JLjUsuruYZBrJ71HIYJQ8dj1m9NK14pCS6LZzJkufR6iOA0xYk9c22xVNaj0wByEDkRCpOQN4QrBjs6AKHh4fDSh82dpBRQ7Y1GC9m07ekTOEyPWu3m6NsI7u2iVmjtx1d6XWkbsi7MtfkzRM4JHQrFGtLBtY7whgIx2yYKLB_h59zgvPRrxPNClAwoET8yWHzoHwuk_LkhCYjFgGL4OHvmY1QKauPl0mSKAEJA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/r5aywo653hvn_web-library.net.json
+COOKIES-FILE: account/browser_state/r5aywo653hvn_web-library.net.json
+SESSION-FILE: account/browser_state/r5aywo653hvn_web-library.net.json
+----------------------------------------
