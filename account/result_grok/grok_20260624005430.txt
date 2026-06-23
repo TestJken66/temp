@@ -1,0 +1,12 @@
+Email: 99m3z6583o2y@web-library.net
+Password: WU$$07@cUjw1pj
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTAwZmE5YmUtMTgxNS00M2ZhLWI1ZWEtMmM3ODhlMWI0NWU5In0.zLfybTHICXs86wCGdOKLbXij0D-JOW1AUdXpa43WBtU
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTAwZmE5YmUtMTgxNS00M2ZhLWI1ZWEtMmM3ODhlMWI0NWU5In0.zLfybTHICXs86wCGdOKLbXij0D-JOW1AUdXpa43WBtU
+X-USERID: 100fa9be-1815-43fa-b5ea-2c788e1b45e9
+CF-CLEARANCE: Yy.Pd2EdmcHro5JKhblwRhhkIId14GMUpawJ9iJ4d1E-1782233701-1.2.1.1-mde2YLPaL8wDFPOSpU7K4mDkDRcYduov7b1JSsolRmY0iV3KR34VptQQ.BWgtEvE.rXf0mpBcAEQXIuueXYdCNbe6atE6YszzWX3qGKUmzlzSgQi_C67Zp_WCnAMPniq1eOVk9ta4p2SWFGatDibRumkcENIKrRWT4v7kAv.POFOu.dUSMfrGpviqHZP3Cu9jscdmI1WYLSKGlKMOL4KhiQ3Bl3bQVxuAxOdmbXM9cqEHUFmYH5knKiLGzeg6QUCXq6E25zFvbXrnnr3Kt2b566ejUSLRhJtVOm7ngpQzWH2b2Zyrc0g5rJ9bIitz0BEqIrEco_GGJhcPAlM9M1H9w
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/99m3z6583o2y_web-library.net.json
+COOKIES-FILE: account/browser_state/99m3z6583o2y_web-library.net.json
+SESSION-FILE: account/browser_state/99m3z6583o2y_web-library.net.json
+----------------------------------------
