@@ -1,0 +1,12 @@
+Email: kpwpp2b8zs8c@web-library.net
+Password: l768!rhYGp4lRR
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNmI0N2NhZmQtYWFlMS00NWI3LTkzOTctNThkNWJmN2E1ZDAwIn0.Gk6pBld1gEuSsScTuqd5edAlLgUJ4AC1LwnHgvC73bo
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNmI0N2NhZmQtYWFlMS00NWI3LTkzOTctNThkNWJmN2E1ZDAwIn0.Gk6pBld1gEuSsScTuqd5edAlLgUJ4AC1LwnHgvC73bo
+X-USERID: 6b47cafd-aae1-45b7-9397-58d5bf7a5d00
+CF-CLEARANCE: TcTbAgXplXVLESdmMYeJD1i4FTF3BC0sUa1GN4NfVK4-1782332429-1.2.1.1-s7hOiJ3nKPN1jVTh65KnODuEEXNBVGtqN52glFniF4U1bFFIFiTANNmYWdhjP2Nvkv7E6LvHDrsHgxMRpSOgGY5S_XHAU059EMo50QiJMNFwRuULgi5xzEQCbDCRlxFiI0TbzZNNOzxirWMIAl6koVR9QRtd9pmJ..i1_HvEF5WbAKg3bn7IdfBIV918799XH5XR4lzsTSuPEDyd7TDiU0ui8EVXgdUeVICURqxOhcLmSFq27vk1EH7cpoWZmsaWOQGc5ZQH2UBzZI6rsdYBrd66DWGkMGi6Zq2yf2.epe1QySH3O0sTFBDBToo3xneuoSfXriHZJS0SbCgAdkIJjQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/kpwpp2b8zs8c_web-library.net.json
+COOKIES-FILE: account/browser_state/kpwpp2b8zs8c_web-library.net.json
+SESSION-FILE: account/browser_state/kpwpp2b8zs8c_web-library.net.json
+----------------------------------------
