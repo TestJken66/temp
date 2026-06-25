@@ -1,0 +1,12 @@
+Email: zo9oqrtjycs6@web-library.net
+Password: N4F7$KSl*uaH9S
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMDAxYTBiMmUtMWYwNC00MjQzLTk5NGQtZTIxZjQ2ZDlhZmExIn0.K7OmBzLLnUXy3V6akxAXnluwp29HgTk3SrPX_UR6pLg
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMDAxYTBiMmUtMWYwNC00MjQzLTk5NGQtZTIxZjQ2ZDlhZmExIn0.K7OmBzLLnUXy3V6akxAXnluwp29HgTk3SrPX_UR6pLg
+X-USERID: 001a0b2e-1f04-4243-994d-e21f46d9afa1
+CF-CLEARANCE: kGLe9t3f0j79gynJEoI4XQqYxVoxjmYy_PavkgGqPfw-1782405037-1.2.1.1-tc2Jx.2OoyCq6VJ3q2ShCde4PLa6Wh8.1ZKILN_KntG3KdQpW7y4VezVMG5tU0aU13L6.BXd_nP.0xxTwqRfGhq03IuooC11l4mGufY.IaRITZxvvMrrRKQlIoAcOOGa1k1x.oVfrz4tndVvYbMqLQRQuxv_iAjShOXlfSJ7SfdQEUzAtvTuHtJ0utVXQXV1.Fr8VfRmeZx6D3FyMaU99gAA2499fCRZuFTgfdVPSdfTJ.qDRzNK58WG8zIZRSz_rB6IUf.PTcmBU9QNn0Y.WR9RirxMYfgduILOczxbJxY.nIQJClkxpkr2xFc2BwtzUf1vZDQ9c44Gyt3wsPs9VQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/zo9oqrtjycs6_web-library.net.json
+COOKIES-FILE: account/browser_state/zo9oqrtjycs6_web-library.net.json
+SESSION-FILE: account/browser_state/zo9oqrtjycs6_web-library.net.json
+----------------------------------------
