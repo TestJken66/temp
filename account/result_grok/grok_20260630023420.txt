@@ -1,0 +1,12 @@
+Email: r71a9ynjgu2a@web-library.net
+Password: @!iq7RV!$$DIl3
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTFjNWNlMDQtYmU0MS00MTY4LTk1MDItODA1ZDc4M2Q3MTg2In0.Dp7dq7myLjhm3lDNpZBltmNIQ4dI2ICPofpWL-rkoY4
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTFjNWNlMDQtYmU0MS00MTY4LTk1MDItODA1ZDc4M2Q3MTg2In0.Dp7dq7myLjhm3lDNpZBltmNIQ4dI2ICPofpWL-rkoY4
+X-USERID: 11c5ce04-be41-4168-9502-805d783d7186
+CF-CLEARANCE: GJ.BT7Rxjt6apFcSoceE6c_pHaYI1zXUNx8.z_n1oYU-1782758104-1.2.1.1-QmpKPnrXnu5tremWDxGOWR3xSp4eO6xOIQPFy3OJ8kYF7qPWwA6rLjt6Xrk_0yRHDK.R58TxvJeqpH2Vh0eD2L1598c1CbhkVEDBx.LoqJI.bsimVMl.GwllBPx1QRCxO2bDM8H2vivFCGWw3bBnvC8AJxFL8TRSyr.BIASaoUKz4Jj95s.BM7n5EaggNpNNIhsPm6PctHL2d1hLk_i9.a.znUumPFLSi1.4eX8_oOL3tRXVlRVFMRaIhvZgrMSHWkIjfPpaBDkhAQyAP9Q7w7CkwtYRqcbzE541PPPErxiMoBKhDBDeuMWMKZ9hqgxoohNHjElMvA3pgVaWA6GNWQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/r71a9ynjgu2a_web-library.net.json
+COOKIES-FILE: account/browser_state/r71a9ynjgu2a_web-library.net.json
+SESSION-FILE: account/browser_state/r71a9ynjgu2a_web-library.net.json
+----------------------------------------
