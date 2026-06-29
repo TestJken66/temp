@@ -1,0 +1,12 @@
+Email: bas4na9m9vm6@web-library.net
+Password: pEzx#qp8%r#kWh
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjZlYzlhNWUtYWU3MS00MTgxLTk5NjctOWJhYTBjOTMxODY2In0.MegzuOwpc1J9Oo2oOuX_7jpaGocHxjCFMlg9V9TG9zs
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjZlYzlhNWUtYWU3MS00MTgxLTk5NjctOWJhYTBjOTMxODY2In0.MegzuOwpc1J9Oo2oOuX_7jpaGocHxjCFMlg9V9TG9zs
+X-USERID: 66ec9a5e-ae71-4181-9967-9baa0c931866
+CF-CLEARANCE: .cYITmvi8TaFHqk5ctU3pESROTrwekV0jhLC6fzYK4g-1782721097-1.2.1.1-iglLaRjlumWQjjLLfgusCEImCIuSvN9z.FGiVquZG4BpsqR_r7Cm3mqZIEwhZIwLSLew8o0rsXoqERAzEqwQLS.Igl3P_Gd7PrJck_xRUt8sMRVkiBZvV5B00dWnTC0I_ikGaewTStcvN1Wf_UyJaP6dWyzkkYK8EX9_yLzTVVQM2cMWDi7jXFVOtR0csCZ_Kd_HjxZGJxlyIj05ToHRC5QKawJsVToj5dffIaQskiTS3marj2jYXbd5q2ye9SobvWaixsHKbd0YkDx.RUBmv8.vYgoKCnOb0honMtG7.66a3nQ687LPX5_2XlZF4FQsQWF62KXuaxynPaUGHnseHQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/bas4na9m9vm6_web-library.net.json
+COOKIES-FILE: account/browser_state/bas4na9m9vm6_web-library.net.json
+SESSION-FILE: account/browser_state/bas4na9m9vm6_web-library.net.json
+----------------------------------------
