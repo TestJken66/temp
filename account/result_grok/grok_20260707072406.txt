@@ -1,0 +1,12 @@
+Email: k1hulfw5s54g@web-library.net
+Password: 9N&of@xkRcK%k&
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNTk3OTM4NWYtNGUzMi00YTcyLTgxOTMtMDZmZGUzZDc4YWY1In0.vttZ6oQHnJ1amt3cL9lklvEfE7F_kc30eLUZZK6Co6s
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNTk3OTM4NWYtNGUzMi00YTcyLTgxOTMtMDZmZGUzZDc4YWY1In0.vttZ6oQHnJ1amt3cL9lklvEfE7F_kc30eLUZZK6Co6s
+X-USERID: 5979385f-4e32-4a72-8193-06fde3d78af5
+CF-CLEARANCE: PIaDYTQnO1NG_MieOil2OK29SDMD2hdh.Kra9cMR904-1783381570-1.2.1.1-I3cfKNZlfEZ8cKuL5OcWA2.A3F8lusJ_kD4RoYvZC3GpUEOSPsWKTrEqCF3crCdEQetKX4UI1s4FiH93aIigOLDGXGfmaoqh0Q80HLhZlziujtcWnj0QZOAlLSchuU1dIX8o5UbUbtB4ludISpVzWgyb29DNhIAJkAYOIgg9OYU1NsyuAD3QcweGVt7cq18ez8oTQxna_3jfz27eWHS9qxEeLOsqI416dyTAvFRwkALg4MPPxZ.dLdNqg4RZwC4o0.BRn6rLOYysDXAxJLGpwsk_P8TnzLBGiwMVx3vvIL6IE1LGzmrx0J0h8Xoxq9CtZTSIOOXqS4oaA4ypk9A00w
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/k1hulfw5s54g_web-library.net.json
+COOKIES-FILE: account/browser_state/k1hulfw5s54g_web-library.net.json
+SESSION-FILE: account/browser_state/k1hulfw5s54g_web-library.net.json
+----------------------------------------
