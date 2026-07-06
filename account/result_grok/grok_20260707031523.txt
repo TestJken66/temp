@@ -1,0 +1,12 @@
+Email: 03gm9im72l3k@web-library.net
+Password: 53I*1st*SUm*44
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZjI4MTg5ZWEtMjRhOC00MjRkLWFmNjEtNTMyMTY4ZjE4NjI3In0.BY4LbpGvJh1sGgeZVbOayW4eG9TXIDjR746wI1jE-SQ
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZjI4MTg5ZWEtMjRhOC00MjRkLWFmNjEtNTMyMTY4ZjE4NjI3In0.BY4LbpGvJh1sGgeZVbOayW4eG9TXIDjR746wI1jE-SQ
+X-USERID: f28189ea-24a8-424d-af61-532168f18627
+CF-CLEARANCE: aF3Tslb6QQwwAMuseS8g1eeNKzYU4tQDAsUyeIX2eZc-1783365967-1.2.1.1-YitH3BimpEMRuSZeSoDozyGBzHmibb1EMgCxHl8PHfRp_Tal8FXdWea9eB34h33gYDc1hIIspzVDAnNqPgApF8C4f_JyyFEtQ8H4CVDhJly673LgxPeRy1qFoBombLNmraADimKaU27T55G3XShkTAhP3wNAq4KAvhU2V3_3zhniJCY78IjOYXB4KfNBhC5RK4C7w.zT_PZ2FiFkZOj.5GxJu9ug0RlFb_mEFM2MeG7WLZMULSG81B214uSHr1J.gq3VLJJpyDjBr3fzbH9spiIoNJFv7hTzysXSIFIWMSN4sWTfGDqXKeq5jFe6vX1YRx7.xb.KSNdqgdAK8z5ETg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/03gm9im72l3k_web-library.net.json
+COOKIES-FILE: account/browser_state/03gm9im72l3k_web-library.net.json
+SESSION-FILE: account/browser_state/03gm9im72l3k_web-library.net.json
+----------------------------------------
