@@ -1,0 +1,12 @@
+Email: 3i91se0iamem@web-library.net
+Password: r9AAmxmQ8##G@5
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNDk0NTM0Y2UtMGI1Yy00MTE1LTg4MDAtNWFmOGFjZmQ3MGUxIn0.6VlSgPOCw0ztdplBm1rvgnCHspAXrRMsTaM5CxdGwAI
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNDk0NTM0Y2UtMGI1Yy00MTE1LTg4MDAtNWFmOGFjZmQ3MGUxIn0.6VlSgPOCw0ztdplBm1rvgnCHspAXrRMsTaM5CxdGwAI
+X-USERID: 494534ce-0b5c-4115-8800-5af8acfd70e1
+CF-CLEARANCE: CycCmxyZFzlKaajaQx1oCMLQyjiP9TO4YemCwm42OeY-1783349271-1.2.1.1-UiUEqpO4Ck92Y7QDSNRZ5Wbf113dNWMMGNo7T7FQB8ulKmQaMoLGyTSYt1g1_bssGYSvfrOmsQM9ZGcDOymYFnUtgWwhz1RjR82efCmDBA4.8nzaLNMON6j56FQalK1kmOyZ9FG2Qzz5iMxolz9FNpSfMN_6p3Gmgv3F9BDhM1Sf_FRo4FHlhmpPXGlUzJbqYeSBpIpYhEsfco8kEjGBoB0qPDUPWdUhoBemfWRQJLdcCuldeMqR2tXqseE.K4acdM7zKRnzOCvqiFT3GEn8bYl4a5hkzp2gMslplg5AqjBOtxxeGNC0rcY2j.zx04GO63rA6TMNvrzYs.tN.Yqf3A
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/3i91se0iamem_web-library.net.json
+COOKIES-FILE: account/browser_state/3i91se0iamem_web-library.net.json
+SESSION-FILE: account/browser_state/3i91se0iamem_web-library.net.json
+----------------------------------------
